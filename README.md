@@ -1,4 +1,4 @@
-🧠 Machine Learning – Learning in Public
+# 🧠 Machine Learning – Learning in Public
 
 This repository documents my journey of learning machine learning in public.  
 It contains my hands-on work, experiments, notes, and mini-projects as I build strong fundamentals and practical skills.
@@ -8,7 +8,7 @@ learn by doing, stay consistent, and build visible proof of work for internships
 
 ---
 
-✨ What you’ll find here
+## ✨ What you’ll find here
 
 📘 Core machine learning concepts  
 🧪 Experiments and practice notebooks  
@@ -21,7 +21,7 @@ Everything here reflects real learning, not polished tutorials.
 
 ---
 
-🎯 Why this repo exists
+## 🎯 Why this repo exists
 
 - To build strong ML fundamentals  
 - To show real progress over time  
@@ -32,7 +32,7 @@ This repo is a work in progress and always will be.
 
 ---
 
-🚀 Commitment
+## 🚀 Commitment
 
 I will keep updating this repo as I learn.
 Learning in public. Improving every week.
